@@ -105,3 +105,5 @@ const initializeGame = () => {
 
   promptInput(rl);
 };
+
+initializeGame();
